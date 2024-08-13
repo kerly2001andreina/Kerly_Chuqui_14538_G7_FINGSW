@@ -1,0 +1,8 @@
+Nombre: a
+Numero de casa: 
+Numero de cedula: 1711111111
+Hora de entrada: N/A
+Hora de salida: 12:54:25
+Placa vehicular: N/A
+Tipo de usuario: Residente
+-----------------------------------------
